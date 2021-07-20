@@ -66,4 +66,4 @@ AutoMapper is Copyright &copy; 2009 [Jimmy Bogard](https://jimmybogard.com) and 
 
 ### .NET Foundation
 
-This project is supported by the [.NET Foundation](https://dotnetfoundation.org).
+This project is supported by the [.NET Foundation](https://dotnetfoundation.org).  
